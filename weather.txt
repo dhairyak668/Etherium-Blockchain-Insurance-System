@@ -1,0 +1,9 @@
+Date       City   Weather
+2023-04-16 Denver Hail
+2023-04-16 Austin Normal
+2023-04-16 Houston Rainfall
+2023-04-16 Boston Rainfall
+2023-04-17 Phoenix Flood
+2023-04-18 Tampa Hail
+2023-04-18 Miami Flood
+2023-04-19 Tucson Normal
